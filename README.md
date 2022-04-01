@@ -42,9 +42,11 @@ The following **additional** features are implemented:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 None to Report.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
 A challenge that I encountered in this submission was the steps in the following section “Task 2: Record a gif of all the implemented features.” Even though I found it a challenge to interact with different software tools for the first time, I found it very rewarding. I have never used GitHub or even used tools to create a GIF. However, I will admit that the resources that were provided in the Pre-Work page allowed me to move forward. Specifically, the challenge I faced was when the presenter in the video entitled “Create Repository, Commit, and Push using GitHub Desktop” had the Pre-Work files in his Desktop – I could not find any steps in the Pre-Work Page nor on Glitch to download the files of code I had worked on. I thought there would be no way I could be able to upload the Pre-Work files I worked on into the GitHub repository. I was able to overcome this challenge by just continuing and reading/watching the provided walkthrough instructions in the Pre-Work page. My strategy was to hopefully find a piece of information that would allow me to be able to upload the Pre-Work files into the GitHub repository or to go into GitHub and try to find any information on how to upload project files from Glitch. Eventually I watched the video entitled “How To Export A Glitch Project to GitHub“ and I was able to figure out that I did not need to download the Pre-Work files onto my computer and then upload them into the GitHub repository – Instead I can just export the Pre-Work files directly into the GitHub repository. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
