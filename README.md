@@ -60,7 +60,7 @@ Unfortunately, I did not know about this opportunity until a day and a half befo
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording]([](https://stanford.zoom.us/rec/share/JhufDkRHvnCjtnXjzvLnFtLv041f6I98DIi02hCUcM-47K8NnI6TlQa1kJEG7sPA.eXHx-DEE3APf9aUP?startTime=1648810919000))
+[[My 5-minute Interview Recording](https://stanford.zoom.us/rec/share/ItHEH-FJyA8ePm_4kG0q9IE7MICjkLM18OpLfmeZMgHaSvVW4tW7X7R-vkyi5B8D.VKA9b-aqWsjplZTv?startTime=1648810919000)]
 
 
 ## License
