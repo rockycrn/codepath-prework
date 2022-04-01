@@ -43,11 +43,11 @@ The following **additional** features are implemented:
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
-None to Report.
+    None to Report.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
-A challenge that I encountered in this submission was the steps in the following section “Task 2: Record a gif of all the implemented features.” 
+    A challenge that I encountered in this submission was the steps in the following section “Task 2: Record a gif of all the implemented features.” 
 Even though I found it a challenge to interact with different software tools for the first time, I found it very rewarding. 
 I have never used GitHub or even used tools to create a GIF. However, I will admit that the resources that were provided in the Pre-Work page 
 allowed me to move forward. Specifically, the challenge I faced was when the presenter in the video entitled “Create Repository, Commit, and Push 
@@ -61,7 +61,7 @@ and then upload them into the GitHub repository – Instead I can just export th
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
-I have a lot of questions about web development after completing this submission, but I think my questions will be more targeted if I were to 
+    I have a lot of questions about web development after completing this submission, but I think my questions will be more targeted if I were to 
 learn more about web development. My first question would be: Why do we need three-programming languages for a website? I have been exposed to 
 writing programs like what we did in JavaScript, but not in the other two. Would we need to implement more programming languages for more complex 
 tasks like adding videos (E.X. – YouTube), music, live-stream entertainment? Additionally, what kind of maintenance (Updates, Bugs, etc.) do we 
@@ -69,7 +69,7 @@ do in web-development? Where exactly do we implement data structures and algorit
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
-Unfortunately, I did not know about this opportunity until a day and a half before the due date. However, I would have like to improve the project
+    Unfortunately, I did not know about this opportunity until a day and a half before the due date. However, I would have like to improve the project
 overall in terms of appearance and adding more features that the user would appreciate. Specifically, I would have liked to add the following 
 features: Speed it Up, Use a Random Secret Pattern, Give the Player 3 Strikes, and Add a Ticking Clock. I believe offering a user more options 
 for this game is beneficial because they will enjoy the game more. Additionally, I would have gone back and understand the code we were provided at
